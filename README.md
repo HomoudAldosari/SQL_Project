@@ -1,2 +1,2 @@
-# SQL_Project
-Blood Bank Management System
+# Blood Bank Management System
+Project in Database.
